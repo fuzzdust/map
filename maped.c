@@ -190,6 +190,8 @@ int main(int argc, char *argv[])
 			
 	
 
+	//Really i'm just adding this comment... It's late at night.
+
 	destroy_bitmap(swap_screen); 
 	destroy_bitmap(cursor);
 	destroy_bitmap(rect_cursor);
